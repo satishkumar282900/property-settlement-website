@@ -34,7 +34,13 @@ https://digitalonlinecourse.in/anchor/
 
 ## Screenshots
 
-(Add screenshots here)
+## Mobile Responsive Design
+
+### Mobile Responsive
+![Mobile Home](m1.JPG)
+
+### Mobile Services Page
+![Mobile Services](m6.JPG)
 
 ## Author
 
