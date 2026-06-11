@@ -39,8 +39,16 @@ https://digitalonlinecourse.in/anchor/
 ### Mobile Responsive
 ![Mobile Home](m1.JPG)
 
-### Mobile Services Page
-![Mobile Services](m6.JPG)
+![Mobile Home](m2.JPG)
+
+![Mobile Home](m3.JPG)
+
+
+### Mobile Service Page
+![Mobile Services](m4.JPG)
+
+### Mobile Contact us Page
+![Contact Us](m6.JPG)
 
 ## Author
 
